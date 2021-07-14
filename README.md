@@ -11,7 +11,7 @@
 <p><strong>Programming languages I have worked before:</strong></p>
 <p align="left"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="30" height="30"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="30" height="30"/>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bayogluteoman&show_icons=true" alt="bayogluteoman" /></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ebraraltunkaynak&show_icons=true" alt="ebrar" /></p>
 <!--
 Here are some ideas to get you started:
 
