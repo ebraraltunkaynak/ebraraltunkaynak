@@ -5,7 +5,7 @@
   <br> <br>
   
 
-<h1 > <img src="https://media1.tenor.com/images/d1eddbe98190c824734c992eca444e52/tenor.gif?itemid=15609107" align="right" width="400" margin="160px" height="250"> </h1>
+<h1 > <img src="https://media1.tenor.com/images/d1eddbe98190c824734c992eca444e52/tenor.gif?itemid=15609107" align="right" width="400" margin="250px" height="250"> </h1>
 
 
 
