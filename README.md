@@ -12,3 +12,9 @@
 
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=ebraraltunkaynak&show_icons=true&theme=radical)
+
+<br> <br>
+
+## Checkout Songs That I Recently Listened
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=lfl5yo45g77ocqooqrb50moci)
