@@ -2,9 +2,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?duration=3000&lines=Hi+there+%3A);I'm+Ebrar.;I'm+a+React+Developer;I+love+programming+React+Nodejs+JavaScript+projects.">
   </a>
   
+  <br> <br>
   
 
-<h1 > <img src="https://media1.tenor.com/images/d1eddbe98190c824734c992eca444e52/tenor.gif?itemid=15609107" align="right" width="250" height="250"> </h1>
+<h1 > <img src="https://media1.tenor.com/images/d1eddbe98190c824734c992eca444e52/tenor.gif?itemid=15609107" align="right" width="400" height="250"> </h1>
 
 
 
