@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebraraltunkaynak" alt="ebraraltunkaynak" /> </p>
-<img src="https://readme-typing-svg.herokuapp.com?duration=3000&lines=Hi+there+%3A);I'm+Ebrar.;I'm+a+React+Developer;I+love+programming+React+iPad+(iOS)+projects.">
+<img src="https://readme-typing-svg.herokuapp.com?duration=3000&lines=Hi+there+%3A);I'm+Ebrar.;I'm+a+React+Developer;I+love+programming+React+Nodejs+JavaScript+projects.">
   </a>
   
   
