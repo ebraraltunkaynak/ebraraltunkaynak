@@ -18,3 +18,12 @@
 ## Checkout Songs That I Recently Listened
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=lfl5yo45g77ocqooqrb50moci)
+
+<br>
+
+## Social Media Accounts
+
+[![LinkedIn](https://img.shields.io/badge/Lınkedın-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://tr.linkedin.com/in/ebrarmeadev)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-black?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ebrardev/)
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ebrarmea)
+
