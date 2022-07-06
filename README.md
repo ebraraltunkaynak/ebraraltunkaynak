@@ -1,6 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebraraltunkaynak" alt="ebraraltunkaynak" /> </p>
-<img src="https://readme-typing-svg.herokuapp.com?duration=3000&lines=Hi+there+%3A);I'm+Ebrar.;I'm+a+Software+Engineer;I+love+programming+React+React Native+and I love The Smiths.">
+<img src="https://readme-typing-svg.herokuapp.com?duration=3000&lines=Hi+there+%3A);I'm+Gizem.;I'm+an+iOS+Engineer;I+love+programming+iPhone+iPad+(iOS)+projects.">
   </a>
+  
   
 <br> 
 <h1 align="center"> <img src="https://media1.tenor.com/images/d1eddbe98190c824734c992eca444e52/tenor.gif?itemid=15609107" width="500px"> </h1>
